@@ -1,0 +1,5 @@
+ru/stankin/project/controller/ViewController.class
+ru/stankin/project/persistence/repository/Repository.class
+ru/stankin/project/ProjectApplication.class
+ru/stankin/project/service/Service.class
+ru/stankin/project/persistence/entity/Entity.class
